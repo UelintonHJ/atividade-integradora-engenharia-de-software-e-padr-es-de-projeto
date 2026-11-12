@@ -1,0 +1,306 @@
+ATIVIDADE INTEGRADORA
+
+Da necessidade ao projeto de software
+
+Trabalho individual | Engenharia de Software e Padrões de Projeto
+
+UC: Engenharia de Software
+Modalidade: Individual
+Valor: 50 pontos
+Produto: Projeto técnico
+
+Ideia central: Como transformar uma necessidade real em uma proposta de software clara, modelada, sustentável e preparada para implementação?
+
+Documento do estudante
+Nome: _
+Turma: __
+Data: ____ / ____ / ______
+
+
+1. Visão geral
+
+A atividade integra fundamentos de Engenharia de Software, levantamento e análise de requisitos, UML, orientação a objetos, metodologias, padrões de projeto, qualidade, riscos e sustentabilidade. O produto final será um documento técnico de projeto, e não uma aplicação implementada.
+
+---
+Elemento: Natureza
+Orientação: Projeto individual de análise, modelagem e proposição técnica.
+
+Elemento: Produto final
+Orientação: Relatório técnico com requisitos, diagramas UML, padrões, metodologia, riscos e plano futuro.
+
+Elemento: Desenvolvimento
+Orientação: Não é necessário programar, criar banco de dados ou publicar o sistema.
+
+Elemento: Escopo
+Orientação: Uma solução de pequeno porte, detalhada o suficiente para ser implementada posteriormente.
+
+Elemento: Avaliação
+Orientação: Atividade Integradora com valor de 50 pontos.
+---
+
+O que será valorizado: Clareza do raciocínio, coerência entre problema e proposta, qualidade da modelagem, justificativa das decisões e comunicação técnica. A complexidade do sistema não será critério de mérito.
+
+
+2. Objetivos de aprendizagem
+
+Ao concluir a atividade, espera-se que o estudante consiga:
+
+• analisar um problema e delimitá-lo em um contexto de negócio ou de serviço;
+• identificar stakeholders, requisitos funcionais e requisitos não funcionais;
+• utilizar a UML para representar estrutura e comportamento de um sistema;
+• aplicar princípios de orientação a objetos na definição das responsabilidades;
+• reconhecer problemas recorrentes de design e selecionar padrões de projeto adequados;
+• comparar metodologias e ciclos de vida conforme o contexto do projeto;
+• considerar qualidade, riscos, manutenção, sustentabilidade e evolução do software;
+• comunicar decisões técnicas de forma organizada e justificável.
+
+
+3. Enunciado do desafio
+
+Você foi contratado(a) como analista e projetista de software para propor uma solução para uma organização, empresa, instituição de ensino, serviço público ou projeto social. O cliente possui uma necessidade, mas ainda não tem uma especificação clara nem uma proposta de arquitetura e design.
+
+Elabore uma proposta técnica que responda às seguintes perguntas:
+1. Qual problema será resolvido e quem são os usuários e interessados?
+2. Quais requisitos funcionais e não funcionais devem ser considerados?
+3. Como o sistema pode ser representado por meio da UML?
+4. Quais classes, responsabilidades e relacionamentos compõem a solução?
+5. Quais padrões de projeto podem melhorar sua flexibilidade e manutenção?
+6. Qual metodologia ou ciclo de vida é mais adequado ao contexto?
+7. Quais riscos, critérios de qualidade e aspectos de sustentabilidade devem ser tratados?
+8. Como seria o plano para uma futura implementação?
+
+Limite importante: O trabalho é uma proposta de análise e projeto. Não há exigência de programar, implementar os padrões, desenvolver telas funcionais, criar banco de dados, publicar uma aplicação ou entregar código-fonte. Wireframes, pseudocódigo e exemplos ilustrativos são permitidos, mas não obrigatórios.
+
+
+4. Escolha do cenário
+
+Você pode escolher um cenário próprio ou utilizar uma das sugestões abaixo. O problema deve ser pequeno o suficiente para ser modelado individualmente, mas completo o suficiente para exigir decisões de projeto.
+
+---
+Cenário: Educação
+Problema possível: Reserva de laboratórios e equipamentos
+Elementos que podem aparecer: usuários, agenda, aprovação e notificações
+
+Cenário: Atendimento
+Problema possível: Agendamento de serviços
+Elementos que podem aparecer: perfis, disponibilidade, confirmação e histórico
+
+Cenário: Comércio
+Problema possível: Catálogo e pedidos
+Elementos que podem aparecer: produtos, estoque, clientes e status do pedido
+
+Cenário: Gestão
+Problema possível: Abertura e acompanhamento de chamados
+Elementos que podem aparecer: prioridade, anexos, histórico e permissões
+
+Cenário: Eventos
+Problema possível: Inscrição e credenciamento
+Elementos que podem aparecer: formulário, lotes, lista de presença e relatórios
+
+Cenário: Serviço público
+Problema possível: Solicitação e acompanhamento de serviços
+Elementos que podem aparecer: protocolo, prazos, responsáveis e transparência
+
+A escolha deve conter uma justificativa: quem é o usuário, qual é a necessidade, qual benefício é esperado e quais dados serão tratados.
+---
+
+
+5. Escopo e regras
+
+---
+Categoria: Obrigatório
+Regra: propor uma solução, explicar as decisões e apresentar evidências por meio de texto, diagramas e tabelas.
+
+Categoria: Não obrigatório
+Regra: programar, criar banco real, implementar padrões, publicar aplicação ou executar testes automatizados.
+
+Categoria: Permitido
+Regra: usar documentação, ferramentas de modelagem, diagramas, mockups, pseudocódigo e exemplos ilustrativos.
+
+Categoria: Cuidado
+Regra: não inserir dados pessoais reais, credenciais, chaves, tokens ou informações confidenciais.
+
+Categoria: Transparência
+Regra: distinguir fatos do cenário, informações pesquisadas e premissas adotadas pelo estudante.
+---
+
+
+6. Entregáveis
+
+O relatório deve ter entre 8 e 12 páginas, sem contar capa e referências. Pode ser elaborado em PDF e deve seguir uma organização profissional.
+
+---
+Parte: 1. Contexto
+O que apresentar: Problema, público, objetivo, escopo e itens fora do escopo.
+Evidência esperada: Descrição objetiva e delimitação do projeto.
+
+Parte: 2. Requisitos
+O que apresentar: Stakeholders, elicitação, requisitos funcionais e não funcionais.
+Evidência esperada: Tabela priorizada com justificativas.
+
+Parte: 3. Casos de uso
+O que apresentar: Atores, casos de uso e descrição de dois casos principais.
+Evidência esperada: Diagrama e especificações textuais.
+
+Parte: 4. UML
+O que apresentar: Classes, sequência e atividades.
+Evidência esperada: Diagramas legíveis, coerentes e explicados.
+
+Parte: 5. Orientação a objetos
+O que apresentar: Abstração, encapsulamento, responsabilidades, coesão e acoplamento.
+Evidência esperada: Análise das principais classes e decisões.
+
+Parte: 6. Padrões
+O que apresentar: Pelo menos dois padrões de projeto aplicáveis.
+Evidência esperada: Problema, escolha, aplicação, benefício e limite.
+
+Parte: 7. Metodologia
+O que apresentar: Comparação de abordagens e decisão para o contexto.
+Evidência esperada: Justificativa relacionada ao projeto.
+
+Parte: 8. Qualidade e riscos
+O que apresentar: Critérios de qualidade, testes futuros, riscos, manutenção e sustentabilidade.
+Evidência esperada: Matriz de riscos e medidas de tratamento.
+
+Parte: 9. Plano futuro
+O que apresentar: Etapas, dependências, equipe, ferramentas e critérios de aceite.
+Evidência esperada: Roadmap conceitual sem cronograma obrigatório.
+---
+
+Formato de entrega: Nome do arquivo: Sobrenome_Nome_AtividadeIntegradora_EngenhariaSoftware.pdf. O documento deve conter nome, turma, cenário escolhido, referências e declaração de autoria.
+
+
+7. Roteiro recomendado do relatório
+
+A estrutura abaixo é uma orientação de escrita. Não representa uma sequência obrigatória de conteúdos da UC; você deve organizar o relatório de modo que a proposta fique coerente.
+
+• Capa e resumo executivo: cenário, proposta e principal benefício.
+• Contexto e problema: organização, usuários, necessidade e limites.
+• Requisitos e premissas: origem das informações, prioridades, restrições e suposições.
+• Alternativas consideradas: pelo menos duas abordagens e justificativa da escolha.
+• Casos de uso e UML: estrutura, comportamento e explicação dos diagramas.
+• Orientação a objetos: responsabilidades, relações, coesão e acoplamento.
+• Padrões de projeto: aplicação contextualizada de pelo menos dois padrões.
+• Metodologia, qualidade e riscos: abordagem de desenvolvimento e controles propostos.
+• Plano futuro e conclusão: próximos passos, limitações e validações necessárias.
+• Referências: fontes consultadas e ferramentas utilizadas.
+
+
+8. Rubrica de avaliação - níveis de desempenho
+
+A avaliação considera a qualidade da proposta, não a existência de código executável.
+
+---
+Critério: Contexto e requisitos 5pts
+Excelente: Problema relevante, stakeholders, escopo e requisitos claros e conectados.
+
+Critério: UML e modelagem 12pts
+Excelente: Diagramas completos, legíveis, consistentes e explicados.
+
+Critério: Orientação a objetos 6pts
+Excelente: Responsabilidades, relações, coesão e acoplamento bem analisados.
+
+Critério: Padrões de projeto 7 pts
+Excelente: Dois ou mais padrões bem escolhidos, aplicados e criticamente justificados.
+
+Critério: Metodologia 4 pts
+Excelente: Compara alternativas e escolhe uma abordagem coerente com o contexto.
+
+Critério: Qualidade, riscos e sustentabilidade 4 pts
+Excelente: Identifica riscos e critérios de qualidade e propõe controles realistas.
+
+Critério: Comunicação técnica 3pts
+Excelente: Documento claro, organizado, autoral, visualmente legível e referenciado.
+
+Critério: Total
+Excelente: 50 pontos
+---
+
+
+9. Orientações para pesquisa e autoria
+
+Consultar fontes é esperado, mas o trabalho deve ser autoral. Copiar diagramas, textos ou soluções sem compreender e sem citar não atende ao objetivo da atividade.
+
+• Utilize livros, documentação oficial e materiais acadêmicos para fundamentar decisões.
+• Explique as premissas que não foram fornecidas no enunciado.
+• Use diagramas próprios ou informe a origem de modelos adaptados.
+• Não inclua informações confidenciais ou dados pessoais reais.
+• Revise, valide e informe o uso de qualquer ferramenta conforme a orientação institucional.
+
+
+10. Checklist antes da entrega
+
+---
+Verificação: O problema, o público e o escopo estão claros. 
+OK: [ ]
+
+Verificação: Os stakeholders e requisitos foram identificados. 
+OK: [ ]
+
+Verificação: Os casos de uso foram descritos e modelados.
+OK: [ ]
+
+Verificação: Os diagramas UML estão legíveis e coerentes entre si.
+OK: [ ]
+
+Verificação: Os princípios de orientação a objetos foram explicados.
+OK: [ ]
+
+Verificação: Pelo menos dois padrões foram justificados.
+OK: [ ]
+
+Verificação: A metodologia escolhida foi comparada com uma alternativa.
+OK: [ ]
+
+Verificação: Riscos, qualidade e sustentabilidade foram considerados.
+OK: [ ]
+
+Verificação: As referências foram citadas e listadas.
+OK: [ ]
+
+Verificação: O arquivo está identificado e em formato PDF.
+OK: [ ]
+---
+
+Mensagem final: Uma boa proposta não é a que apresenta mais diagramas. É a que conecta necessidade, requisitos, modelo, padrões e decisões de projeto de forma coerente e justificável.
+
+
+11. Rubrica de avaliação
+
+Distribuição da pontuação
+
+---
+Critério: Contexto e requisitos
+Pts: 5
+O que será observado: Problema, stakeholders, escopo, requisitos e premissas.
+
+Critério: UML e modelagem
+Pts: 12
+O que será observado: Casos de uso, classes, sequência, atividades e coerência geral.
+
+Critério: Orientação a objetos
+Pts: 6
+O que será observado: Responsabilidades, abstração, encapsulamento, coesão e acoplamento.
+
+Critério: Padrões de projeto
+Pts: 7
+O que será observado: Escolha, aplicação, benefícios e limites de pelo menos dois padrões.
+
+Critério: Metodologia
+Pts: 4
+O que será observado: Comparação e adequação ao contexto do projeto.
+
+Critério: Qualidade, riscos e sustentabilidade
+Pts: 4
+O que será observado: Critérios de qualidade, riscos, manutenção e impactos.
+
+Critério: Comunicação técnica
+Pts: 3
+O que será observado: Clareza, organização, referências e autoria.
+
+Critério: Total
+Pts: 50
+
+
+
+Observação: o trabalho deve seguir exatamente o que foi estipulado neste documento. A escrita deve ser fácil de entender e sem parecer que foi elaborada por um profissional no ramo da programação ou por uma IA, mas sim por um estudante da área de Análise e desenvolvimento de Sistemas.
