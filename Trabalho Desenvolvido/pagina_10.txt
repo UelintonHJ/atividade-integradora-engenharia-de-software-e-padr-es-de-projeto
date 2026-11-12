@@ -1,0 +1,25 @@
+Não será possível aprovar reservas com conflitos de data e horário. 
+
+A confirmação dependerá da aprovação administrativa. 
+
+Não estão previstas integrações com sistemas externos ou equipamentos físicos da instituição. 
+
+O desenvolvimento deverá respeitar os recursos e o prazo disponíveis para a atividade acadêmica. 
+
+2.7 Priorização e validação dos requisitos 
+
+A priorização foi realizada considerando a importância de cada requisito para o objetivo principal do sistema. As funcionalidades de acesso, gerenciamento dos recursos, consulta de disponibilidade, solicitação e aprovação de reservas foram classificadas como essenciais. 
+
+Acesso de usuários e controle de permissões. 
+
+Cadastro e consulta de laboratórios e equipamentos. 
+
+Consulta correta da disponibilidade. 
+
+Impedimento de solicitações com horários conflitantes. 
+
+Aprovação e rejeição das solicitações. 
+
+Consulta ao histórico e cancelamento de reservas. 
+
+Dessa forma, os requisitos e as premissas estabelecem uma base para as próximas etapas do projeto, principalmente a elaboração dos casos de uso, dos diagramas UML e a definição da estrutura do sistema. 

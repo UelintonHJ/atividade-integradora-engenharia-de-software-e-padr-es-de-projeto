@@ -1,0 +1,115 @@
+
+ 
+
+RF04 
+
+Permitir que professores e funcionários consultem os recursos cadastrados. 
+
+ 
+
+Alta 
+
+ 
+
+ 
+
+RF05 
+
+Permitir a consulta de disponibilidade dos recursos por data e horário. 
+
+ 
+
+Alta 
+
+ 
+
+RF06 
+
+Permitir que professores e funcionários solicitem reservas, informando recurso, data, horário de início, horário de término e finalidade. 
+
+ 
+
+Alta 
+
+ 
+
+RF07 
+
+Verificar a existência de conflitos com solicitações pendentes ou reservas aprovadas para o mesmo recurso e período. 
+
+ 
+
+Alta 
+
+ 
+
+RF08 
+
+Permitir que o administrador aprove ou rejeite solicitações de reserva. 
+
+ 
+
+Alta 
+
+ 
+
+RF09 
+
+Permitir que os usuários consultem o andamento e o histórico de suas solicitações. 
+
+ 
+
+Média 
+
+ 
+
+RF10 
+
+Permitir que os usuários cancelem suas próprias solicitações ou reservas, respeitando as regras estabelecidas. 
+
+Média 
+
+ 
+
+Os requisitos de alta prioridade representam as funções essenciais para realizar e administrar as reservas. Os de média prioridade complementam o sistema, permitindo acompanhar o histórico e cancelar solicitações. 
+
+2.3 Requisitos não funcionais 
+
+Os requisitos não funcionais estabelecem características de qualidade que deverão ser consideradas durante o desenvolvimento, como segurança, desempenho, usabilidade e manutenção. 
+
+Código 
+
+Requisito não funcional 
+
+Prioridade 
+
+RNF01 
+
+O sistema deverá exigir autenticação para permitir o acesso às funcionalidades restritas. 
+
+Alta 
+
+RNF02 
+
+O acesso deverá respeitar as permissões de cada perfil de usuário. 
+
+Alta 
+
+RNF03 
+
+As principais consultas e operações deverão apresentar respostar em até 3 segundos, em condições normais de utilização. 
+
+Média 
+
+RNF04 
+
+A interface deverá ser simples, organizada e de fácil utilização. 
+
+Alta 
+
+RNF05 
+
+O sistema deverá funcionar nos navegadores atuais Google Chrome, Microsoft Edge e Mozilla Firefox. 
+
+Média 
+

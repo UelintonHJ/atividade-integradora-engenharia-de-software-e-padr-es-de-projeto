@@ -1,0 +1,64 @@
+recursos acadêmicos. Outras funcionalidades poderão ser consideradas em versões futuras, caso surjam novas necessidades.REQUISITOS E PREMISSAS 
+
+Esta seção apresenta os requisitos funcionais e não funcionais do Sistema de Reserva de Laboratórios e Equipamentos, além das regras de negócio, premissas e restrições consideradas para a proposta. Esses elementos servirão de base para a elaboração dos diagramas e para o planejamento de uma futura implementação. 
+
+Como o projeto considera uma instituição de ensino fictícia, os requisitos foram definidos a partir da análise do cenário proposto, dos problemas identificados e das funcionalidades necessárias para organizar as reservas. 
+
+2.1 Critérios de prioridade 
+
+	Os requisitos foram classificados em três níveis, conforme sua importância para o funcionamento do sistema: 
+
+Alta: essencial para atender ao objetivo principal da solução. 
+
+Média: importante para melhorar a utilização e o gerenciamento, mas pode ser desenvolvido posteriormente. 
+
+Baixa: funcionalidade complementar, que poderá ser considerada em versões futuras. 
+
+A prioridade representa a importância do requisito, não necessariamente a ordem de desenvolvimento. 
+
+2.2 Requisitos funcionais 
+
+Os requisitos funcionais descrevem as operações e funcionalidades que o sistema deverá oferecer aos usuários. 
+
+Código 
+
+Requisito funcional 
+
+Prioridade 
+
+ 
+
+RF01 
+
+Permitir que os usuários realizem login utilizando e-mail e senha. 
+
+ 
+
+Alta 
+
+ 
+
+ 
+
+RF02 
+
+Permitir que o administrador cadastre, consulte, altere e desative usuários. 
+
+ 
+
+Alta 
+
+ 
+
+ 
+
+RF03 
+
+Permitir que o administrador cadastre, consulte, altere e desative laboratórios e equipamentos. 
+
+ 
+
+Alta 
+
+ 
+
