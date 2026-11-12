@@ -1,0 +1,7 @@
+RESUMO EXECUTIVO 
+
+	Este trabalho apresenta uma proposta de desenvolvimento de um Sistema de Reserva de Laboratórios e Equipamentos para uma instituição de ensino fictícia. A situação considerada é a dificuldade de organizar a utilização dos laboratórios de informática e dos equipamentos utilizados nas atividades acadêmicas. Quando as reservas são controladas por planilhas, mensagens, e-mails ou solicitações presenciais, podem ocorrer conflitos de horários, informações desatualizadas e dificuldades para acompanhar os pedidos. 
+
+	Como solução, propõe-se um sistema web que centralize o processo de reservas. Professores e funcionários poderão consultar os recursos disponíveis, verificar horários, solicitar reservas e acompanhar o andamento dos pedidos. Os administradores serão responsáveis pelo cadastro de usuários e recursos e pela análise das solicitações, podendo aprová-las ou rejeitá-las. 
+
+	O sistema também deverá verificar conflitos de horários antes de registrar uma solicitação, considerando os pedidos pendentes e as reservas aprovadas. Com isso, espera-se melhorar a organização, reduzir reservas duplicadas e facilitar o controle da utilização dos recursos da instituição.

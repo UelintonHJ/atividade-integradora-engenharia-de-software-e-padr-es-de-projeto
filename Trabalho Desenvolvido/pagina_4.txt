@@ -1,0 +1,29 @@
+CONTEXTO E PROBLEMA 
+
+1.1 Organização 
+
+O projeto considera uma instituição de ensino fictícia que disponibiliza laboratórios de informática e equipamentos para aulas, atividades práticas, trabalhos acadêmicos e outras atividades educacionais. 
+
+Para organizar a utilização desses recursos, considera-se que as solicitações podem ser realizadas por diferentes meios, como planilhas, mensagens, e-mails ou presencialmente. Essa forma de controle pode dificultar a consulta de horários disponíveis, o acompanhamento das solicitações e a identificação de reservas realizadas para o mesmo período. 
+
+Diante dessa situação, propõe-se um sistema que reúna as informações em um único ambiente e facilite o gerenciamento das reservas. 
+
+1.2 Usuários envolvidos 
+
+O sistema terá três perfis principais de usuários: 
+
+Professores: poderão consultar a disponibilidade dos recursos, solicitar reservas e acompanhar seus pedidos. 
+
+Funcionários: terão acesso às funcionalidades de consulta, solicitação e acompanhamento, conforme as permissões definidas pela instituição. 
+
+Administradores: serão responsáveis pelo gerenciamento dos usuários e recursos cadastrados, além de analisar as solicitações, podendo aprová-las ou rejeitá-las. 
+
+A instituição também será beneficiada indiretamente, pois terá maior controle sobre a utilização dos laboratórios e equipamentos. 
+
+1.3 Necessidade identificada 
+
+A principal necessidade é centralizar e organizar o processo de reserva dos recursos acadêmicos, reduzindo os problemas que podem ocorrer quando as solicitações são controladas manualmente ou por ferramentas diferentes. 
+
+Entre os principais problemas considerados para este projeto estão: 
+
+Conflitos de horários e solicitações duplicadas para o mesmo recurso. 
